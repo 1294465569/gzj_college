@@ -9,9 +9,13 @@
 }
 .box_1 {
 }
+.box_2 {
+}
 .ellipse {
 }
 .image {
+}
+.placeholder {
 }
 ._一级标题 {
   font-family:'Arial Normal', 'Arial';
@@ -52,6 +56,10 @@
   font-weight:bold;
   font-style:normal;
   font-size:10px;
+  text-align:left;
+}
+.label {
+  font-size:14px;
   text-align:left;
 }
 ._文本段落 {
