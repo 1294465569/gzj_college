@@ -17,6 +17,9 @@
 }
 .placeholder {
 }
+.primary_button {
+  color:#FFFFFF;
+}
 ._一级标题 {
   font-family:'Arial Normal', 'Arial';
   font-weight:bold;
@@ -72,4 +75,15 @@
 .table_cell {
 }
 ._流程形状 {
+}
+._文本段落1 {
+  text-align:left;
+}
+._形状 {
+}
+._图片 {
+  color:#000000;
+}
+._图片1 {
+  color:#000000;
 }
