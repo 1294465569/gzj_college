@@ -72,6 +72,9 @@
 }
 .arrow {
 }
+.radio_button {
+  text-align:left;
+}
 .table_cell {
 }
 ._流程形状 {
@@ -86,4 +89,6 @@
 }
 ._图片1 {
   color:#000000;
+}
+.icon {
 }
